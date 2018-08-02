@@ -5,5 +5,6 @@ The data was collected by students of the course 'Humanities Data and Mapping En
 
 The overlays show the distribution of citizens with immigration background in Leipzig, on district ('Stadtteil') and sub district ('Ortsteil') level.
 
-For information about Leaflet for R visit: https://rstudio.github.io/leaflet/
+For information about Leaflet for R visit: https://rstudio.github.io/leaflet/  
+
 For information about R Shiny visit: https://shiny.rstudio.com/
